@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KorRail_Bid_4_HM", "KorRail_Bid_4_HM\KorRail_Bid_4_HM.csproj", "{7981989E-EA4E-4C6C-81FE-E63BE39FE5FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7981989E-EA4E-4C6C-81FE-E63BE39FE5FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7981989E-EA4E-4C6C-81FE-E63BE39FE5FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7981989E-EA4E-4C6C-81FE-E63BE39FE5FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7981989E-EA4E-4C6C-81FE-E63BE39FE5FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+D:\Source\CPP\TEST_WPF\TEST_WPF\bin\Debug\TEST_WPF.exe.config
+D:\Source\CPP\TEST_WPF\TEST_WPF\bin\Debug\TEST_WPF.exe
+D:\Source\CPP\TEST_WPF\TEST_WPF\bin\Debug\TEST_WPF.pdb
+D:\Source\CPP\TEST_WPF\TEST_WPF\obj\Debug\TEST_WPF.csprojResolveAssemblyReference.cache
+D:\Source\CPP\TEST_WPF\TEST_WPF\obj\Debug\MainWindow.baml
+D:\Source\CPP\TEST_WPF\TEST_WPF\obj\Debug\MainWindow.g.cs
+D:\Source\CPP\TEST_WPF\TEST_WPF\obj\Debug\App.g.cs
+D:\Source\CPP\TEST_WPF\TEST_WPF\obj\Debug\TEST_WPF_MarkupCompile.cache
+D:\Source\CPP\TEST_WPF\TEST_WPF\obj\Debug\TEST_WPF.g.resources
+D:\Source\CPP\TEST_WPF\TEST_WPF\obj\Debug\TEST_WPF.Properties.Resources.resources
+D:\Source\CPP\TEST_WPF\TEST_WPF\obj\Debug\TEST_WPF.csproj.GenerateResource.Cache
+D:\Source\CPP\TEST_WPF\TEST_WPF\obj\Debug\TEST_WPF.exe
+D:\Source\CPP\TEST_WPF\TEST_WPF\obj\Debug\TEST_WPF.pdb

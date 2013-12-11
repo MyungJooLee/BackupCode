@@ -1,0 +1,9 @@
+D:\Source\CPP\test_CSharp\test_CSharp\bin\Debug\test_CSharp.exe.config
+D:\Source\CPP\test_CSharp\test_CSharp\bin\Debug\test_CSharp.exe
+D:\Source\CPP\test_CSharp\test_CSharp\bin\Debug\test_CSharp.pdb
+D:\Source\CPP\test_CSharp\test_CSharp\obj\Debug\test_CSharp.csprojResolveAssemblyReference.cache
+D:\Source\CPP\test_CSharp\test_CSharp\obj\Debug\test_CSharp.Form1.resources
+D:\Source\CPP\test_CSharp\test_CSharp\obj\Debug\test_CSharp.Properties.Resources.resources
+D:\Source\CPP\test_CSharp\test_CSharp\obj\Debug\test_CSharp.csproj.GenerateResource.Cache
+D:\Source\CPP\test_CSharp\test_CSharp\obj\Debug\test_CSharp.exe
+D:\Source\CPP\test_CSharp\test_CSharp\obj\Debug\test_CSharp.pdb

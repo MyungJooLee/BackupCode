@@ -1,0 +1,6 @@
+D:\Source\CPP\testConsol\testConsol\bin\Debug\testConsol.exe.config
+D:\Source\CPP\testConsol\testConsol\bin\Debug\testConsol.exe
+D:\Source\CPP\testConsol\testConsol\bin\Debug\testConsol.pdb
+D:\Source\CPP\testConsol\testConsol\obj\Debug\testConsol.csprojResolveAssemblyReference.cache
+D:\Source\CPP\testConsol\testConsol\obj\Debug\testConsol.exe
+D:\Source\CPP\testConsol\testConsol\obj\Debug\testConsol.pdb

@@ -1,0 +1,14 @@
+﻿Build started 4/30/2013 10:01:32 PM.
+     1>Project "D:\Source\CPP\SimulationReport\Report2\Report2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt Report2.c
+         Report2.c
+     1>d:\source\cpp\simulationreport\report2\report2.c(52): warning C4244: 'function' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Source\CPP\SimulationReport\Debug\Report2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Source\CPP\SimulationReport\Debug\Report2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Source\CPP\SimulationReport\Debug\Report2.lib" /MACHINE:X86 Debug\Report2.obj
+         Report2.vcxproj -> D:\Source\CPP\SimulationReport\Debug\Report2.exe
+     1>Done Building Project "D:\Source\CPP\SimulationReport\Report2\Report2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.43

@@ -1,0 +1,9 @@
+D:\Source\CPP\KorRail_Bid_4_HM\KorRail_Bid_4_HM\bin\Debug\KorRail_Bid_4_HM.exe.config
+D:\Source\CPP\KorRail_Bid_4_HM\KorRail_Bid_4_HM\bin\Debug\KorRail_Bid_4_HM.exe
+D:\Source\CPP\KorRail_Bid_4_HM\KorRail_Bid_4_HM\bin\Debug\KorRail_Bid_4_HM.pdb
+D:\Source\CPP\KorRail_Bid_4_HM\KorRail_Bid_4_HM\obj\Debug\KorRail_Bid_4_HM.csprojResolveAssemblyReference.cache
+D:\Source\CPP\KorRail_Bid_4_HM\KorRail_Bid_4_HM\obj\Debug\KorRail_Bid_4_HM.MainFrame.resources
+D:\Source\CPP\KorRail_Bid_4_HM\KorRail_Bid_4_HM\obj\Debug\KorRail_Bid_4_HM.Properties.Resources.resources
+D:\Source\CPP\KorRail_Bid_4_HM\KorRail_Bid_4_HM\obj\Debug\KorRail_Bid_4_HM.csproj.GenerateResource.Cache
+D:\Source\CPP\KorRail_Bid_4_HM\KorRail_Bid_4_HM\obj\Debug\KorRail_Bid_4_HM.exe
+D:\Source\CPP\KorRail_Bid_4_HM\KorRail_Bid_4_HM\obj\Debug\KorRail_Bid_4_HM.pdb
