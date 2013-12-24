@@ -1,0 +1,44 @@
+#ifndef __INC_MON_TIMER_H__
+#define __INC_MON_TIMER_H__
+
+//////////////////////////////////////////////////////
+// Include Section									//
+//////////////////////////////////////////////////////
+
+#include "types.h"
+#include "define.h"
+
+#include "stm32f4xx_tim.h"
+#include "stm32f4xx_gpio.h"
+#include "misc.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+//////////////////////////////////////////////////////
+// Global Variable Pre-Define Section				//
+//////////////////////////////////////////////////////
+
+
+//////////////////////////////////////////////////////
+// Struct Define Section							//
+//////////////////////////////////////////////////////
+
+
+
+
+//////////////////////////////////////////////////////
+// Function	Pre-Define Section						//
+//////////////////////////////////////////////////////
+void initTimer(TIM_TypeDef* TIMx, uint32_t nPeriod_us, uint8_t NVIC_IRQChannel, bool bInterrupt, uint32_t nIRQPriority);
+inline void startTimer(TIM_TypeDef* TIMx);
+inline void stopTimer(TIM_TypeDef* TIMx);
+
+
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif	/* __INC_MON_TIMER_H__ */
